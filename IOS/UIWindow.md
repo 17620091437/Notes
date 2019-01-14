@@ -26,7 +26,7 @@
 
 1. 设置应用程序主窗口（[UIApplication shareApplication].keyWindow属性可查看）
 2. 让窗口显示，窗口默认是hidden
-3. 把窗口的根控制器的view添加到窗口上阿萨德
+3. 把窗口的根控制器的view添加到窗口上
 
 
 
